@@ -1,6 +1,4 @@
-# Slim Voltex
-
-This design aims to produce a fully printable SDVX controller that is slimmer than other versions on the market. 
+# Slim Voltex - 3D-printable minimalist SDVX controller
 
 ## Notes
 * All measurements are in millimeters
