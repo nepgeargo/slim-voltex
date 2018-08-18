@@ -12,6 +12,6 @@ Some files including adaptions to other files may be licensed under a different 
 ## Attributions
 ### NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory 
 https://www.thingiverse.com/thing:193647
+* threaded-rod-m24-15mm.stl
 
 Licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. 
-* threaded-rod-m24-15mm.stl
