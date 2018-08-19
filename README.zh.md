@@ -32,4 +32,4 @@
 ## 授權書
 該項目默認授權書為 創意共用 姓名標示-非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)。詳情請參閲 LICENSE.md。
 
-其他許可證可能適用於某些包含他人創作素材的文件。詳情請參閲 ATTRIBUTIONS.md 和 LICENSE.md。
+其他許可證可能適用於某些包含他人創作素材的文件。詳情請參閲 <a href="https://github.com/nepgeargo/slim-voltex/blob/master/ATTRIBUTIONS.md">ATTRIBUTIONS.md</a> 和 <a href="https://github.com/nepgeargo/slim-voltex/blob/master/LICENSE.md">LICENSE.md</a>。
