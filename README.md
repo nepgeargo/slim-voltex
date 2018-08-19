@@ -2,7 +2,6 @@
 
 ## Notes
 * All measurements are in millimeters
-* The .skp files are scaled to 10x to improve compatibility with Sketchup
 
 ## License
 By default, this repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See LICENSE.md for more details.
