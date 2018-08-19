@@ -1,5 +1,5 @@
 # Attributions
-> Refer to <a href="https://github.com/nepgeargo/slim-voltex/blob/master/ATTRIBUTIONS.md">LICENSE.md</a> for licensing details.
+> Refer to <a href="https://github.com/nepgeargo/slim-voltex/blob/master/LICENSE.md">LICENSE.md</a> for licensing details.
 
 ### Airstrip One Font
 http://www.iconian.com/
