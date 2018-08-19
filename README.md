@@ -2,7 +2,7 @@
 
 ### 3D-printable minimalist SDVX controller
 
-Read this in other languages: <a href="github.com/nepgeargo/slim-voltex/README.zh.md">中文</a>
+Read this in other languages: <a href="https://github.com/nepgeargo/slim-voltex/blob/master/README.md">中文</a>
 
 > This project is still under active development. If you have any suggestions, please let me know.
 
