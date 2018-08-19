@@ -31,4 +31,4 @@ There are two versions: **Slim** and **Standard**
 ## License
 By default, this repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See LICENSE.md for more details.
 
-Some files including adaptions to other files may be licensed under a different license. Refer to <a href="https://github.com/nepgeargo/slim-voltex/blob/master/LICENSE.md">ATTRIBUTIONS.md</a> and <a href="https://github.com/nepgeargo/slim-voltex/blob/master/LICENSE.md">LISENCE.md</a> for more details.
+Some files including adaptions to other files may be licensed under a different license. Refer to <a href="https://github.com/nepgeargo/slim-voltex/blob/master/ATTRIBUTIONS.md">ATTRIBUTIONS.md</a> and <a href="https://github.com/nepgeargo/slim-voltex/blob/master/LICENSE.md">LISENCE.md</a> for more details.
