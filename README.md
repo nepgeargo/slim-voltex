@@ -10,6 +10,9 @@ By default, this repository is licensed under the Creative Commons Attribution-N
 Some files including adaptions to other files may be licensed under a different license. Refer to the attributions section and LISENCE.md for more details.
 
 ## Attributions
+### Airstrip One Font
+http://www.iconian.com/
+
 ### NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory 
 https://www.thingiverse.com/thing:193647
 * BT-slim-base-threaded
