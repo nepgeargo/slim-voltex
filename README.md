@@ -31,15 +31,4 @@ There are two versions: **Slim** and **Standard**
 ## License
 By default, this repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See LICENSE.md for more details.
 
-Some files including adaptions to other files may be licensed under a different license. Refer to the attributions section and LISENCE.md for more details.
-
-## Attributions
-### Airstrip One Font
-http://www.iconian.com/
-
-### NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory 
-https://www.thingiverse.com/thing:193647
-#### File based on this thing:
-* BT-slim-base-threaded
-
-Licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. 
+Some files including adaptions to other files may be licensed under a different license. Refer to ATTRIBUTIONS.md and LISENCE.md for more details.
