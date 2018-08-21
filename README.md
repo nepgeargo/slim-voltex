@@ -8,7 +8,7 @@ Read this in other languages: <a href="https://github.com/nepgeargo/slim-voltex/
 
 There are two versions: **Slim** and **Standard**
 
-**Standard** case is 77mm thick (excl. feet).
+**Standard** case is 77mm tall (excl. feet).
 
 **Slim** is projected to be ~20mm thinner than the standard version (under development).
 
